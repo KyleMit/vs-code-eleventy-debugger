@@ -1,2 +1,3 @@
-# vs-code-eleventy-debugger
+# Eleventy Debugger
+
 Adds debug configuration for eleventy in VS Code
